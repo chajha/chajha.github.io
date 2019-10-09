@@ -33,14 +33,14 @@ footer {
     font-size: .8em;
 }
 
-list.posts {
+ol.posts {
     list-style-type: square;
     font-size: 1.5em;
     line-height: 1.5em;
     color: #333;
 }
 
-list.posts li {
+ol.posts li {
     font-size: 1.5em;
     line-height: 1.5em;
     color: #333;
